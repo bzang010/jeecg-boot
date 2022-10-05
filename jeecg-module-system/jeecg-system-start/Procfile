@@ -1,1 +1,0 @@
-web: java -Djava.security.egd=file:/dev/./urandom -jar jeecg-system-start-3.4.2.jar
